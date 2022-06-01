@@ -6,6 +6,8 @@ calificacion = int(calificacion) # Convertimos la variable a entero
 # Preguntamos si la calificación es menor a 700
 if calificacion < 700 :
     print("Sigue participando 🤷‍♂️") # Muestra esto si se cumple el primer if
+elif calificacion == 700 :
+    print("Ni bien ni mal 🎈")
 elif calificacion > 1000 :
     print("Mientes! me haces daño y te luego arrepientes 😔")
 else : # Si no se cumple el if anterior, pasa a esta línea
