@@ -2,7 +2,7 @@
 
 En este curso aprenderás a programar en Python.
 
-![Logo de Python]([imagenes\Python-Symbol.png](https://github.com/GonzaDiego/python-curso-basico/blob/main/imagenes/Python-Symbol.png))
+![Logo de Python](https://github.com/GonzaDiego/python-curso-basico/blob/main/imagenes/Python-Symbol.png)
 
 **Requisitos:**
 - Python 3.6 o superior
